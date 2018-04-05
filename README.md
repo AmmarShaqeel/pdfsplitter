@@ -1,6 +1,9 @@
 # pdfsplitter
 
-First bat file splits writes pdf names to the top left corner.
-Then splits all pdfs into their different pages.
+**Split.bat**
+Goes through all pdfs in a folder and writes the pdf name to the top left corner of the pdf. Then creates a folder called "output" and splits each pdf into it single pages.
 
-Second bat files goes through the folders in a certain domain and splices all the pdfs together.
+**Combine.bat**
+Goes through all folders in a folder and combines all the pdfs in each folder into a single folder.
+
+Needs pdftk and cpdf installed.
