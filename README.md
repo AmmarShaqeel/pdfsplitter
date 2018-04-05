@@ -6,6 +6,6 @@ Goes through all pdfs in a folder and writes the pdf name to the top left corner
 
 **Combine.bat**
 
-Goes through all folders in a folder and combines all the pdfs in each folder into a single folder.
+Goes through all folders in a folder and combines all the pdfs in each folder into a single pdf in the root folder.
 
 Needs pdftk and cpdf installed.
