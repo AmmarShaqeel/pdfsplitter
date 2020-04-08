@@ -1,6 +1,6 @@
 # pdfsplitter
 
-Used mainly to make topicwise pastpapers for the different exams.
+Used mainly to make topicwise pastpapers.
 
 
 **Split.bat**
