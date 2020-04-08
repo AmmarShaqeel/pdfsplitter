@@ -1,5 +1,8 @@
 # pdfsplitter
 
+Used mainly to make topicwise pastpapers for the different exams.
+
+
 **Split.bat**
 
 Goes through all pdfs in a folder and writes the pdf name to the top left corner of the pdf. Then creates a folder called "output" and splits each pdf into it single pages.
